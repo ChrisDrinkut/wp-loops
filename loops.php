@@ -1,6 +1,6 @@
 
 *
-* This snippet has a loop followed by two query loops (if that's what they're called)
+* This snippet has a loop followed by two category queries
 *
 
 <?php if ( have_posts() ) : ?>
